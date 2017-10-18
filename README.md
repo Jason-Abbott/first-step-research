@@ -7,7 +7,7 @@ FSR was a local Internet dial-up company that sponsored three separate contests 
 
 # Innovations
 
-The 3D perspectives were created in [Caligari trueSpace](https://en.wikipedia.org/wiki/TrueSpace) then composited in [Altamira Composer](https://en.wikipedia.org/wiki/Altamira_Software) and finally saved as GIFs with transparency, a little known option.
+The 3D perspectives were created in [Caligari trueSpace](https://en.wikipedia.org/wiki/TrueSpace) then composited in [Altamira Composer](https://en.wikipedia.org/wiki/Altamira_Software) (for the time's standard grey pages) and finally saved as GIFs with transparency, a little known option.
 
 
 ![Moscow](./moscow.gif)
